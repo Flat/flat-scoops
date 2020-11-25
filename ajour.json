@@ -1,0 +1,9 @@
+{
+    "version": "0.5.3",
+    "url": "https://github.com/casperstorm/ajour/releases/download/0.5.3/ajour.exe",
+    "bin": "ajour.exe",
+    "description": "A World of Warcraft addon manager written in Rust",
+    "homepage": "https://github.com/casperstorm/ajour",
+    "hash": "1E12AF00C973860AE15CEF7ED6F644CEEBDB93DC1AD0DE563A6F97EF1138AC73",
+    "license": "MIT"
+}
