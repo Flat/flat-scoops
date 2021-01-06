@@ -1,0 +1,9 @@
+{
+    "version": "1.5.0",
+    "url": "https://github.com/WerWolv/ImHex/releases/download/v1.5.0/ImHex_1.5.0_Windows.zip",
+    "bin": "ImHex.exe",
+    "description": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
+    "homepage": "https://github.com/WerWolv/ImHex",
+    "hash": "79E5DFCF0B5A997571180574A3D66FE469923139B70E933AB990874F84FBE391",
+    "license": "GPLv2"
+}
